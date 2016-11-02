@@ -70,6 +70,8 @@ html, body, div, span, applet, object, iframe,
 	.image1{
 		position: absolute;
 		z-index: 1;
+		top:0;
+		width:60%;
 		border-top:2px solid green;
 	}
 
@@ -77,6 +79,7 @@ html, body, div, span, applet, object, iframe,
 		position: absolute;
 		z-index: 2;
 		top:15px;
+		width:70%;
 		border-top:2px solid red;
 	}
 
@@ -84,6 +87,7 @@ html, body, div, span, applet, object, iframe,
 		position: absolute;
 		z-index: 3;
 		top:30px;
+		width:80%;
 		border-top:2px solid blue;
 	}
 
